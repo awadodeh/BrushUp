@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Technologies
 
-You can use the [editor on GitHub](https://github.com/awadodeh/BrushUp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+While working on many different technologies through your career, its hard to keep track of what you have learned or worked on.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In order to keep track of new technologies or to refreshing an old one, here are some of the learning resources that I have found and think its useful.
 
-### Markdown
+### Basics
+- Algorithms
+- Problem Solving
+- Object Oriented Programming (OOP)
+- Protocol Oriented Programming (POP)
+- Functional Programming
+- Design Patterns
+- Agile
+- Regular Expressions
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Languages
+- Java (7+)
+- Swift
+- C
+- Python
+- SQL
+- NoSQL
+- UML
+- JavaScript
 
-```markdown
-Syntax highlighted code block
+### Frameworks
+- Java Servlets and JSP
+- Spring
+- JDBC
+- Hibernate & HQL
+- JPA & JPQL
+- Angular
 
-# Header 1
-## Header 2
-### Header 3
+### Tools
+- Build Tools – Ant, Maven & Gradle
+- Version Control – Git, SVN
+- Unit Testing
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Todos
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/awadodeh/BrushUp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [ ] Finish all technology stack
+- [ ] Add links to resources
+- [ ] Add Interesting questions asked before
+- [ ] Rearrange GitHub pages
